@@ -7,7 +7,7 @@
 - ### git remote add origin ตามด้วย url เช่น 
 - ### url ให้ดูตรงนี้ จิ้มตรง เขียวๆ แล้วก็อปมา
 ![alt text](image.png)
-- ### git remote add origin www.goolge
+- ### ตัวอย่างเช่น git remote add origin www.goolge
 - ### git push -u origin main
 - ### หลังการใช้คำสั่ง git push -u origin main แล้วให้รี repo 1 ที เราจะเห็นไฟล์ ที่อัพขึ้นไป
 
